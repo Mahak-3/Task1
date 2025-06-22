@@ -1,3 +1,4 @@
+#API INTEGRATION AND DATA VISULIZATION (OPENWEATHERMAP)
 import requests
 import matplotlib.pyplot as plt
 import seaborn as sns
